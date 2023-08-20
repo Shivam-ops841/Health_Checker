@@ -1,0 +1,64 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #1b1919;
+  margin-top: 100px;
+}
+.login-form{
+color: white;
+}
+.form-control{
+border:2px solid;
+
+border-radius:25px;
+}
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.Signup-form{
+color: white;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 25;
+  border-top-right-radius: 25;
+}
+.btn{
+background-color: transparent;
+border: 2px solid white;
+}
+.btn:hover{
+background-color: hsl(188, 52%, 51%);
+border: 2px solid white;
+}
+#btnst{
+border:2px solid;
+
+border-radius:25px;}
